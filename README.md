@@ -33,6 +33,15 @@ I'm pursuing a post-degree diploma in data analytics in Vancouver, BC, and I hav
 - Compares **seven classic novels** on vocabulary richness, sentence length, reading level and sentiment
 - Includes a **book similarity recommender** built on the NLTK Gutenberg corpus
 
+### BC Air Quality Forecasting
+*Python · pandas · scikit-learn · matplotlib*
+
+[Repository](https://github.com/ifoslien/bc-air-quality-forecast)
+
+- Forecasts **PM2.5 six hours ahead** at 15 BC monitoring stations, tested on the **fall 2022 wildfire smoke**
+- Beat a "same as now" baseline by **about 12% at 12 hours ahead**, and found the baseline is hard to beat at short horizons
+- Solo rebuild of a team course project, focused on the forecasting question the team version left open
+
 ---
 
 ## Technical Skills
